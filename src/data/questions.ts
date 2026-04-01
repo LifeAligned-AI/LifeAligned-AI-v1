@@ -1,4 +1,4 @@
-export const questions = [];
+
 export type Question = {
   id: string;
   text: string;
